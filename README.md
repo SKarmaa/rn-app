@@ -29,5 +29,5 @@ To run this React Native app on your device, follow these steps:
 </table>
 
 ## Additional Functionalities
-**Transaction Recording and Overview**
+**Transaction Recording (Income/Expenditure) and Overview**
 
