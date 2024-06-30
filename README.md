@@ -21,10 +21,10 @@ To run this React Native app on your device, follow these steps:
 ## Screenshots
 <table>
   <tr>
-    <td align="center"><img src="assets/images/ios_login.PNG" alt="Example Image" width="200"/></td>
-    <td align="center"><img src="assets/images/ios_profile.PNG" alt="Example Image" width="200"/></td>
-    <td align="center"><img src="assets/images/android_login.png" alt="Example Image" width="200"/></td>
-    <td align="center"><img src="assets/images/android_profile.png" alt="Example Image" width="200"/></td>
+    <td align="center"><img src="assets/images/ios_login.PNG" alt="Example Image" width="300"/></td>
+    <td align="center"><img src="assets/images/ios_profile.PNG" alt="Example Image" width="300"/></td>
+    <td align="center"><img src="assets/images/android_login.png" alt="Example Image" width="300"/></td>
+    <td align="center"><img src="assets/images/android_profile.png" alt="Example Image" width="300"/></td>
   </tr>
 </table>
 
