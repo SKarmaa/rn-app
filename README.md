@@ -18,8 +18,8 @@ To run this React Native app on your device, follow these steps:
 
 5. **Scan the QR or open directly from the Expo Go app**
 
-![Alt text](assets/images/android_login.png)
-![Alt text](assets/images/android_profile.png)
-![Alt text](assets/images/ios_login.PNG)
-![Alt text](assets/images/ios_profile.PNG)
+<img src="assets/images/ios_login.PNG" alt="Example Image" width="400"/>
+<img src="assets/images/ios_profile" alt="Example Image" width="400"/>
+<img src="assets/images/android_login" alt="Example Image" width="400"/>
+<img src="assets/images/android_profile.png" alt="Example Image" width="400"/>
 
