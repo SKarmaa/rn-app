@@ -28,6 +28,6 @@ To run this React Native app on your device, follow these steps:
   </tr>
 </table>
 
-##Additional Functionalities
+## Additional Functionalities
 **Transaction Recording**
 
